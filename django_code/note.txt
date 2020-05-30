@@ -1,0 +1,13 @@
+sql db queries optional sql
+^
+python serialize post get http methods database^
+
+https://python.doctor/page-django-rest-framework-drf-cours-tuto-tutoriel-exemples
+
+
+ask api https://pypi.org/project/requests/
+
+django receive http call^
+^
+^
+ok javascript call url ajax
